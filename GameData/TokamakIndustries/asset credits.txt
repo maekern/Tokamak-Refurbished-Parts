@@ -1,0 +1,38 @@
+From Porkjet Habitat Pack:
+	By Porkjet
+	Original forum URL http://forum.kerbalspaceprogram.com/index.php?/topic/58534-10x-habitat-pack-v041/
+	Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+	Also recieved personal permission in PMs on KSP forum 2016-07-29
+	
+	* Inflato Habitat PA550
+		Completely made by Porkjet. Included here not to take credit for but completeness
+		Tokamak migrated from obsolite and buggy deployable hab module to USIAnimation, added support for USI-LS, MKS, CLS, ELP
+	* Inflato Workshop PA330
+		Externals completely made by Porkjet, as well as basic unfinished internal skeleton
+		Tokamak finished/fleshed out IVA, using some models and textures from PA550 to maintain consistent look and feel
+	* Inflato F.L.A.T Command Module
+		Externals completely made by Porkjet. No IVA
+		Tokamak created IVA, using some models and textures from PA550 to maintain consistent look and feel
+	* Base mount
+		Entirely by Porkjet. Included for completeness
+
+From Large Structural/Station Components
+	By udk_lethal_d0se
+	Original forum URL ttp://forum.kerbalspaceprogram.com/index.php?/topic/31891-large-structuralstation-components-20-compatible-release-thread/
+	Creative Commons Attribution-NonCommercial 4.0 International License
+	Officially abandoned. Creator last on forums in May 2016
+	Stated on mod thread, “I permit those whom wish, to continue with mod; as I won't be returning to progress it myself”
+	
+	* Dry Workshop
+		Exterior by udk_lethal_d0se
+		IVA by Tokamak
+		Uses chair model/texture from Porkjet Habitat Pack
+		Uses modified chair model/texture from Kerbonov - Sam Hall CC 3.0 Share Alike with attribution
+		Uses computer textures from Virtual Museum of Computing
+			http://www.esi.uclm.es/museo/index_en.html
+			Any use of the models are permitted under the Creative Commons 2.5 Attribution of Spain
+		Large console display texture by ZZZ
+			Released to public domain by author 
+			http://forum.kerbalspaceprogram.com/index.php?/topic/74147-k-p0110-apollo-like-crew-module-now-with-source-files-included/
+		All other textures and models by Tokamak
+		

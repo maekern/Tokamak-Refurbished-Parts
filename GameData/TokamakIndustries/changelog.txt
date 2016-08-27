@@ -1,0 +1,10 @@
+0.1 - 2016.08.26
+--------------------
+Initial release
+* Added "refurbished" inflato1, inflato2, and inflatoflat from Porkjet hab pack, with USI-LS/MKS, CLS and ELP support
+* Added Dry Workshop with USI-LS/MKS, CLS and ELP support
+
+
+
+Immediate todo:
+* Spiff up inflatable IVAs
