@@ -1,4 +1,5 @@
 Tokamak-Refurbished-Parts
+This license applies except where different licenses are specified.
 
 License
 

@@ -24,9 +24,9 @@ From Large Structural/Station Components
 	Stated on mod thread, “I permit those whom wish, to continue with mod; as I won't be returning to progress it myself”
 	
 	* Dry Workshop
-		Exterior by udk_lethal_d0se
+		Exterior by udk_lethal_d0se, as well as internal wall texture
 		IVA by Tokamak
-		Uses chair model/texture from Porkjet Habitat Pack
+		Uses chair model/texture and transparent grating texture from Porkjet Habitat Pack
 		Uses modified chair model/texture from Kerbonov - Sam Hall CC 3.0 Share Alike with attribution
 		Uses computer textures from Virtual Museum of Computing
 			http://www.esi.uclm.es/museo/index_en.html
