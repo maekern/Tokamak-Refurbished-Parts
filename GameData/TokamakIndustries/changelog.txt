@@ -8,3 +8,7 @@ Initial release
 
 Immediate todo:
 * Spiff up inflatable IVAs
+* External lights for dry workshop
+* normal / bump maps?
+* Internal windows on inflato flat
+* Set up IVA overlay / depth mask
