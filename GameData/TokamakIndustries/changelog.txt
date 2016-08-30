@@ -1,4 +1,4 @@
-0.1 - 2016.08.26
+0.1.0 - 2016.08.26
 --------------------
 Initial release
 * Added "refurbished" inflato1, inflato2, and inflatoflat from Porkjet hab pack, with USI-LS/MKS, CLS and ELP support

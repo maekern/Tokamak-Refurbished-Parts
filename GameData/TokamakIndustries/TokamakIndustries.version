@@ -1,0 +1,28 @@
+{
+     "NAME":"Tokamak Industries",
+	 "URL":"https://raw.githubusercontent.com/maekern/Tokamak-Refurbished-Parts/master/GameData/TokamakIndustries/TokamakIndustries.version",
+	 "DOWNLOAD":"https://github.com/maekern/Tokamak-Refurbished-Parts/releases",
+	 "CHANGE_LOG_URL":"https://raw.githubusercontent.com/maekern/Tokamak-Refurbished-Parts/master/GameData/TokamakIndustries/changelog.txt"
+     "GITHUB":{
+         "USERNAME":"maekern",
+         "REPOSITORY":"Tokamak-Refurbished-Parts",
+         "ALLOW_PRE_RELEASE":true
+     },
+     "VERSION":{
+         "MAJOR":0,
+         "MINOR":1,
+         "PATCH":0,
+         "BUILD":0
+     },
+     "KSP_VERSION":{
+         "MAJOR":1,
+         "MINOR":1,
+         "PATCH":3
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":1,
+         "MINOR":1,
+         "PATCH":3
+     },
+
+ } 
