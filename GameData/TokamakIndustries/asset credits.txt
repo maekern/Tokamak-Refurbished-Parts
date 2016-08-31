@@ -6,7 +6,7 @@ From Porkjet Habitat Pack:
 	
 	* Inflato Habitat PA550
 		Completely made by Porkjet. Included here not to take credit for but completeness
-		Tokamak migrated from obsolite and buggy deployable hab module to USIAnimation, added support for USI-LS, MKS, CLS, ELP
+		Tokamak migrated from obsolete and buggy deployable hab module to USIAnimation, added support for USI-LS, MKS, CLS, ELP
 	* Inflato Workshop PA330
 		Externals completely made by Porkjet, as well as basic unfinished internal skeleton
 		Tokamak finished/fleshed out IVA, using some models and textures from PA550 to maintain consistent look and feel
@@ -17,11 +17,10 @@ From Porkjet Habitat Pack:
 		Entirely by Porkjet. Included for completeness
 
 From Large Structural/Station Components
-	By udk_lethal_d0se
 	Original forum URL ttp://forum.kerbalspaceprogram.com/index.php?/topic/31891-large-structuralstation-components-20-compatible-release-thread/
 	Creative Commons Attribution-NonCommercial 4.0 International License
-	Officially abandoned. Creator last on forums in May 2016
-	Stated on mod thread, “I permit those whom wish, to continue with mod; as I won't be returning to progress it myself”
+	Officially abandoned. Creator stated on mod thread, “I permit those whom wish, to continue with mod; as I won't be returning to progress it myself”
+	Interior by Tokamak
 	
 	* Dry Workshop
 		Exterior by udk_lethal_d0se, as well as internal wall texture
