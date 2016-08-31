@@ -36,3 +36,13 @@ From Large Structural/Station Components
 			http://forum.kerbalspaceprogram.com/index.php?/topic/74147-k-p0110-apollo-like-crew-module-now-with-source-files-included/
 		All other textures and models by Tokamak
 		
+
+From NASA - Adaptable, Deployable Entry Placement Technology (ADEPT) 
+	By DennyTX for KSP 0.25
+	http://forum.kerbalspaceprogram.com/index.php?/topic/88546-nasa-adaptable-deployable-entry-placement-technology-adept-by-oldd-260414/
+	Creative Commons Attribution-NonCommercial 4.0 International License.
+	Tokamak asked for and got permission to repackage from DennyTX over PM on 2016-08-30
+	Model, texture, and animations by DennyTX
+	Updated to ModuleAnimateGeneric for KSP 1.1.3, and KSP 1.x thermal and aero systems by Tokamak
+	
+	* Kadept folding heat shield
