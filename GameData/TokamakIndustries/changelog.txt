@@ -1,3 +1,7 @@
+0.2.0 - date not determined yet
+--------------------
+* Added updated (K)ADEPT heat shields originally by DennyTX
+
 0.1.0 - 2016.08.26
 --------------------
 Initial release
