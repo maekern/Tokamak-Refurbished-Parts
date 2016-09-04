@@ -6,12 +6,12 @@
      "GITHUB":{
          "USERNAME":"maekern",
          "REPOSITORY":"Tokamak-Refurbished-Parts",
-         "ALLOW_PRE_RELEASE":true
+         "ALLOW_PRE_RELEASE":false
      },
      "VERSION":{
          "MAJOR":0,
          "MINOR":1,
-         "PATCH":1,
+         "PATCH":2,
          "BUILD":0
      },
      "KSP_VERSION":{

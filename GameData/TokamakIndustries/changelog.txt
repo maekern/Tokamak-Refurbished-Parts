@@ -1,3 +1,7 @@
+0.1.2 - 2016.09.04
+--------------------
+* Fixed dry workshop not having a tech tree requirement
+
 0.1.1 - 2016.08.30
 --------------------
 * Added updated (K)ADEPT heat shields originally by DennyTX
