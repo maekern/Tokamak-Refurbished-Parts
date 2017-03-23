@@ -1,0 +1,27 @@
+@PART[TIdryworkshop]:NEEDS[MODNAME]
+{
+MODULE 
+	{
+		  name = OseModuleWorkshop
+	  	ProductivityFactor = 0.50 // How much units of the resource a processed per second
+	  	UpkeepResource = ElectricCharge 
+	  	MinimumCrew = 4
+	  	Animate = false
+	  	UseSpecializationBonus = true
+		  ExperienceEffect = RepairSkill
+		  SpecialistEfficiencyFactor = 0.02
+	}
+  
+  MODULE
+  {
+		  name = OseModuleRecycler
+		  ConversionRate = 0.5
+		  ProductivityFactor = 0.50
+		  UpkeepResource = ElectricCharge
+	  	MinimumCrew = 4
+		  UseSpecializationBonus = true
+		  ExperienceEffect = RepairSkill
+		  SpecialistEfficiencyFactor = 0.02
+	    }
+   }
+}
