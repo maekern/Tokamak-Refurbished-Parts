@@ -1,5 +1,14 @@
 0.1.4 - 2016-09-XX
 * Added Orbital Orb from Porkjet's hab pack, for player convenience
+* Following changes courtesy of Github user @rspeed
+	-Fixes filename for OSE Workshop patch which was missing an exception.
+	-Fixes OSE Workshop config formatting.
+		Removes extraneous closing curly bracket.
+		Replaces mix of tabs and spaces for indentatios with just tabs.
+	-Fixes ModuleManager syntax for the OSE Workshop requirement.
+* Following by @linuxgurugamer
+	- Fixed syntax error in .version file
+	- Updated version number
 
 0.1.3 - 2016.09.06
 --------------------
