@@ -1,4 +1,12 @@
-0.1.4 - 2016-09-XX
+0.1.5 - 2017-07-12
+	Many thanks to forum user @JadeOfMaar for the following additions:
+	- Added Life Support for the following systems:
+		Kerbalism
+		Snacks
+		Tac Life Support
+		USI Life Support
+
+0.1.4 - 2017-07-09
 * Added Orbital Orb from Porkjet's hab pack, for player convenience
 * Following changes courtesy of Github user @rspeed
 	-Fixes filename for OSE Workshop patch which was missing an exception.
