@@ -1,3 +1,7 @@
+0.1.6
+	Removed old LS files, moved into Extras directory
+	Added Small Centrifuge
+
 0.1.5 - 2017-07-12
 	Many thanks to forum user @JadeOfMaar for the following additions:
 	- Added Life Support for the following systems:
