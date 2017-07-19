@@ -1,3 +1,6 @@
+0.1.7
+	Removed extra files in the InflatoFlat
+
 0.1.6
 	Removed old LS files, moved into Extras directory
 	Added Small Centrifuge
