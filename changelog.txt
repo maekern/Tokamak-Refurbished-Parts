@@ -1,3 +1,8 @@
+0.1.*
+	Moved heat shields to Thermal category
+    Increased crew capacity of small centrifuge to 2
+    Added IVA from old centrifuge to replace broken on from new one
+
 0.1.7
 	Removed extra files in the InflatoFlat
 
